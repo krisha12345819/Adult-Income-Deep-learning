@@ -309,9 +309,7 @@ Run all cells top-to-bottom (**Kernel → Restart & Run All**) to reproduce ever
 
 ## 🎥 Video Walkthrough
 
-📺 **[Watch the full explanation here](#)** — face + screen recording covering preprocessing rationale, sigmoid vs softmax, activation diagnostics, initializer theory, BCE vs Focal Loss, BatchNorm's Internal Covariate Shift fix, and why Adam wins.
-
-> *(Replace the `#` above with your uploaded Google Drive / YouTube link.)*
+📺 **[Watch the full explanation here](https://drive.google.com/file/d/18s3zJKoSonC8pJvLbP4GhAB4P8dW3MpZ/view?usp=sharing)** — face + screen recording covering preprocessing rationale, sigmoid vs softmax, activation diagnostics, initializer theory, BCE vs Focal Loss, BatchNorm's Internal Covariate Shift fix, and why Adam wins.
 
 ---
 
